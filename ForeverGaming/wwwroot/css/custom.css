@@ -1,0 +1,20 @@
+﻿.table-dark,
+.table-dark > th,
+.table-dark > td {
+    background-color: #8a8c8d;
+}
+
+.table-dark th,
+.table-dark td,
+.table-dark thead th,
+.table-dark tbody + tbody {
+    border-color: #95999c;
+}
+
+.table-dark.table-striped tbody tr:nth-of-type(odd) {
+    background-color: rgba(171, 183, 183, 1);
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: rgba(171, 183, 183, 1);
+}
